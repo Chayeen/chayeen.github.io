@@ -16,7 +16,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://chayeen.github.io)**
 
 ![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
