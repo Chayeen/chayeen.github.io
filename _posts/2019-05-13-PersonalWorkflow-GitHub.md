@@ -18,7 +18,7 @@ keywords: 规范, GitHub
 <type>: <subject>
 ```
 
-### type 类型：
+## type 类型：
 - feat : 新功能
 - fix : 修复bug
 - docs : 文档改变
@@ -30,10 +30,10 @@ keywords: 规范, GitHub
 - build : 改变了build工具 如 grunt换成了 npm
 - revert : 撤销上一次的 commit
 
-### subject 描述：
+## subject 描述：
 [优雅的提交你的 Git Commit Message][1] 说是 subject 是概述，建议符合 [50/72 formatting][3]，即：第一行少于或等于 50 个字符；然后空行；一行超过 72 个字符就需要换行。
 
-### 最终规范
+## 最终规范
 考虑到上面说的情况，准备直接采用动宾格式，后面三个 type 一般的小项目应该也用不到，最后 Commit Message 模板如下，`()` 内的文字可选可换：
 
 - feat: 添加xxx(功能)
