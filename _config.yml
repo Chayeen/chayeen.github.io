@@ -4,10 +4,10 @@
 baseurl:
 url: https://chayeen.github.io
 date_format: "ordinal"
-title: "明心阁"
+title: "Chayeen"
 subtitle: "Stay hungry. Stay foolish."
 description: "Chayeen's Blogs"
-keywords: 明心阁, Chayeen Huang, chayeen, huangchayeen
+keywords: Chayeen Huang, chayeen, huangchayeen
 timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
